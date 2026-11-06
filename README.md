@@ -1,46 +1,41 @@
-# Olá, eu sou o Gabriel Vinícius 👋
+# Olá, sou o Gabriel Vinícius 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielviniciusc07@gmail.com)
+Estudante do 4º período de **Ciência da Computação**, focado em desenvolvimento de software, estruturas de dados, redes e sistemas multiplataforma.
 
----
+Atualmente construindo aplicações práticas em **Java**, **Python** e **C/C++** para Desktop (Windows/Linux) e Mobile (Android) para consolidar os conceitos da graduação.
 
-### 🎓 Sobre Mim
-- 📚 Cursando **Ciência da Computação** (4º período).
-- 💡 Foco atual em desenvolvimento de software, estruturas de dados e arquitetura de sistemas.
-- 🎯 Buscando oportunidades de **estágio em Desenvolvimento de Software / Backend**.
-- 🚀 Gosto de transformar lógica e problemas complexos em soluções práticas e eficientes.
+[![Email](https://img.shields.io/badge/Email-gabrielviniciusc07%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gabrielviniciusc07@gmail.com)
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
-<!-- Ajuste as tecnologias de acordo com as que você estuda/domina -->
 
-**Linguagens:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Bancos de Dados & Ferramentas:**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+- **Linguagens:** Java, Python, C, C++, JavaScript
+- **Redes & Sistemas:** TCP/UDP Sockets, HTTP/REST, Proxy SOCKS5, Java Swing, Android SDK
+- **Bancos de Dados:** PostgreSQL, MySQL
+- **Ambiente & Versionamento:** Git, GitHub, Linux, Windows, VS Code
 
 ---
 
 ### 📌 Projetos em Destaque
 
-- 🔹 **[📁 Organizador de Arquivos Desktop (Java Swing)](https://github.com/Gabrila7/organizador-arquivos-java)** - Aplicação desktop desenvolvida em Java para categorização automática e limpeza de diretórios, com interface Swing não-bloqueante e tratamento anti-sobrescrita.
+- 📡 **[QuickDrop LAN — Transferência Wi-Fi PC ⇄ Celular (Java Desktop & Android)](https://github.com/Gabrila7/quickdrop-lan)**  
+  Aplicativo multiplataforma (Windows, Linux e Android `.apk`) para transferência rápida de arquivos e sincronização da área de transferência pela rede local sem internet. Implementa descoberta automática via **UDP Broadcast** (porta `48888`) e transferência de streams binários sobre **TCP Sockets** (porta `48889`), com suporte a Drag & Drop e Tema Escuro.  
+  ↳ *[Baixar Executáveis e APK (Release v1.0.0)](https://github.com/Gabrila7/quickdrop-lan/releases/tag/v1.0.0)*
 
+- 🌐 **[Tradutor Instantâneo PT / EN / ES (Java Desktop & Android)](https://github.com/Gabrila7/slavic-polyglot-translator)**  
+  Tradutor em tempo real entre Português, Inglês e Espanhol com interface inspirada no Google Tradutor (abas dinâmicas, detecção automática de idioma, debounce assíncrono com `SwingWorker`, dicionário de fallback offline e alternância entre Tema Claro/Escuro), disponível para Windows, Linux e Android (`.apk`).  
+  ↳ *[Baixar Executáveis e APK (Release v1.0.0)](https://github.com/Gabrila7/slavic-polyglot-translator/releases/tag/v1.0.0)*
+
+- 🛡️ **[NetPulse Tactical Suite (Python Desktop)](https://github.com/Gabrila7/netpulse-tactical-suite)**  
+  Painel desktop nativo em Python (`CustomTkinter`) para diagnóstico de redes: port forwarding TCP, benchmark de latência/RTT, scanner concorrente de portas, servidor proxy **SOCKS5 (RFC 1928)** local, inspeção de processos/sockets ativos (`psutil`) e utilitários de criptografia/hash.
+
+- 📁 **[Organizador de Arquivos Desktop (Java Swing)](https://github.com/Gabrila7/organizador-arquivos-java)**  
+  Utilitário em Java (`java.nio`) para varredura e organização automática de diretórios por categoria de extensão, com proteção anti-sobrescrita, modo simulação (dry-run) e processamento assíncrono em segundo plano.
 
 ---
 
-### 📊 Estatísticas do GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gabrila7&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrila7&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-</p>
+### 📫 Contato
+
+- **Email:** [gabrielviniciusc07@gmail.com](mailto:gabrielviniciusc07@gmail.com)
+- **GitHub:** [github.com/Gabrila7](https://github.com/Gabrila7)
